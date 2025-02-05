@@ -28,6 +28,7 @@ public class EmployeeDriver {
 			System.out.println("6. Remove Employee by employee number.");
 			System.out.println("7. EXIT");
 			System.out.println();
+			System.out.println();
 			System.out.print("Choose an operation you want to perform : ");
 			int op=sc.nextInt();
 			System.out.println();
